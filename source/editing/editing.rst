@@ -2,17 +2,8 @@
 Editing
 =======
 
-Overview
-========
-
-Sublime Text is brim-full of editing features. This topic just
-scratches the surface of what's possible.
-
 Multiple Selections
 ===================
-
-Multiple selections let you make sweeping changes to your text efficiently.
-Any praise about multiple selections is an understatement. This is why:
 
 Select some text and press :kbd:`Ctrl + D` to **add more** instances. If
 you want **to skip the current instance**, press :kbd:`Ctrl + K, Ctrl + D`.
