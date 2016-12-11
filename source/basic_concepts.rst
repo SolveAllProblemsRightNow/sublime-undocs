@@ -1,22 +1,12 @@
 ==============
-Basic Concepts
+Basic Concepts To Understand For Rest Of Guide
 ==============
-
-
-Overview
-========
-
-To fully understand the rest of this guide,
-you need to be familiar
-with the concepts presented in this section.
-
 
 General Conventions
 ===================
 
-This guide is written from the perspective of a Windows user.
-Most instructions will only require trivial changes
-to work on other platforms.
+This guide is written for a Windows user, but most instructions will only require trivial changes
+for other platforms.
 
 Unless otherwise noted,
 relative paths (for example, :file:`Packages/User`)
